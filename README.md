@@ -1,5 +1,6 @@
 # DarkusRising - "Face your fears!"
-![Title Screen](https://raw.githubusercontent.com/darkmastermindz/DarkusRising/master/DarkusRising/DarkusRisingContent/Backgrounds/bkg_loading.png)
+![Title Screen](https://raw.githubusercontent.com/darkmastermindz/DarkusRising/master/DarkusRising/DarkusRisingContent/Backgrounds/bkg_title.png)
+![Logo Screen](https://raw.githubusercontent.com/darkmastermindz/DarkusRising/master/DarkusRising/DarkusRisingContent/Backgrounds/bkg_loading.png)
 - Built in my Sophomore Year of High School in 2014
 - Refactored C# XNA code for 2018
 - It's now a Universal Cross-Platform App - Windows, macOS, and Linux! with Xamarin
